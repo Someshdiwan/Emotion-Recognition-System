@@ -5,7 +5,7 @@ The model uses audio features such as Mel-frequency cepstral coefficients (MFCCs
 
 ##In the future, I will start working on this project again, and the project structure will be :
 
-Emotion-Recognition-System/
+#Emotion-Recognition-System/
 ├── data/                     # Folder for dataset
 ├── models/                   # Folder for saving trained models
 ├── notebooks/                # Jupyter Notebooks for analysis
