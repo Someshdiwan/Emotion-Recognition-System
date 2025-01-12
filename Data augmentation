@@ -7,6 +7,7 @@ Data augmentation helps in:
 Preventing Overfitting: By exposing the model to more variations of the training data, it reduces the chances of the model memorizing the data (overfitting) and increases its ability to generalize.
 Improving Model Accuracy: When combined with various transformations, augmentation can enhance the model's ability to recognize patterns more effectively.
 Expanding Limited Datasets: Augmentation allows you to artificially expand your dataset without needing to collect new data, which can be costly and time-consuming.
+
 Types of Data Augmentation
 Data augmentation techniques depend on the type of data you're working with. Common data types include images, text, and audio, and each has its own set of transformation techniques:
 
