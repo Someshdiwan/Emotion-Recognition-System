@@ -1,5 +1,6 @@
 # Emotion Recognition System
 
+```plaintext
 🚀 Overview
 
 This project aims to classify emotions from speech using deep learning techniques. The model uses audio features such as Mel-frequency cepstral coefficients (MFCCs) and spectrograms to predict emotions like happiness, sadness, anger, fear, and others.
@@ -16,6 +17,8 @@ Speech-based Emotion Classification: Predicts emotions based on speech data.
 Data Augmentation: Uses various techniques to enhance the dataset and improve model performance.
 Training: Implements training scripts to develop a robust emotion recognition model.
 Evaluation: Includes scripts to assess the model’s performance on unseen data.
+
+```
 
 ## Project Directory Structure
 
